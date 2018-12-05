@@ -1,0 +1,19 @@
+{
+  "name": "top_news",
+  "version": "0.0.0",
+  "description": "news from BBC\n(API fetch RN)",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^25.0.0",
+    "react": "16.2.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-25.0.0.tar.gz",
+    "@expo/vector-icons": "8.0.0",
+    "expo-asset": "~1.1.1",
+    "expo-constants": "~1.1.0",
+    "expo-file-system": "~1.1.0",
+    "expo-font": "^1.0.0",
+    "react-native-elements": "0.19.1"
+  }
+}
